@@ -1,0 +1,16 @@
+.visible{
+    display: none;
+}
+
+.navbar-class{
+    display: block;
+}
+
+@media screen and (max-width:600px) {
+    .visible{
+        display: block;
+    }
+    .navbar{
+        display: none;
+    }
+}
