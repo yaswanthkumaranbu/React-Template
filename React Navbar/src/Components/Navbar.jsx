@@ -1,7 +1,7 @@
 // Navbar.jsx
 import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
-import './navbar.css'
+import './Styles/navbar.css'
 import { useRef } from "react";
 
 const Navbar = () => { 
